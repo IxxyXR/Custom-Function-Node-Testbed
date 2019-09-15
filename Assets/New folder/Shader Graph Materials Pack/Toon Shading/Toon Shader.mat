@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Toon Shader
+  m_Shader: {fileID: 4800000, guid: 8ed05b237cc50954696b7ad82575c02a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_8DABD20E:
+        m_Texture: {fileID: 2800000, guid: 7140a9bc83a12ea49a081dda89216fff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AE301D8:
+        m_Texture: {fileID: 2800000, guid: 7140a9bc83a12ea49a081dda89216fff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2D303DF0: 0.34
+    - Vector1_550BE408: 0.08
+    - Vector1_5900C6A3: 1
+    - Vector1_6554C66E: -0.12
+    - Vector1_77D57CDC: 1
+    - Vector1_7EC5C6C4: 0.97
+    - Vector1_907D00ED: 0
+    - Vector1_E7BA5BF1: 0
+    - Vector1_F5196DFA: 0.39
+    m_Colors:
+    - Color_B0FC0BD3: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 0}
+    - Color_D208ABAF: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+    - Color_EC05180F: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 0}
+    - Color_F5499699: {r: 0.49056596, g: 0.49056596, b: 0.49056596, a: 0}

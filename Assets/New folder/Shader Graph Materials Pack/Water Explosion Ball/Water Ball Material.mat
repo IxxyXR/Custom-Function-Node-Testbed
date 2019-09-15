@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water Ball Material
+  m_Shader: {fileID: 4800000, guid: fcfb3467201e3c743b8a739ca789d390, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_C6D361F4:
+        m_Texture: {fileID: 2800000, guid: bd930677745fe4d44948c3ecb657e7d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E072A034:
+        m_Texture: {fileID: 2800000, guid: bd930677745fe4d44948c3ecb657e7d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_17E5F600: 0
+    - Vector1_1D53F116: 1.55
+    - Vector1_21F749E2: 1
+    - Vector1_48CD8E10: 5
+    - Vector1_4FC80EB2: 1
+    - Vector1_87C2A9EE: 0.96
+    - Vector1_946C4F14: 0.37
+    - Vector1_9D935513: 1
+    - Vector1_A01C0AC8: 1
+    - Vector1_AF4EAEF: 1
+    - Vector1_C3452AC9: 1
+    - Vector1_C38F822A: 0.5
+    - Vector1_D10646F5: 1
+    - Vector1_E84A3A8C: 5
+    - Vector1_EBB5567E: 0.5
+    - Vector1_F3B732D0: 0
+    - _alpha: 0.44
+    - _dist: 10
+    - _emit: 0
+    m_Colors:
+    - Color_5E7D049D: {r: 0, g: 0.9811321, b: 0.9504253, a: 0}
+    - Color_732C1BC6: {r: 1, g: 0, b: 0.6739464, a: 0}
+    - Color_7586BA90: {r: 1, g: 0, b: 0, a: 0}
+    - Color_A1B1F03E: {r: 1, g: 0, b: 0.6739464, a: 0}
+    - Color_A7DC501C: {r: 1, g: 0, b: 0, a: 0}
+    - Color_D30AF149: {r: 1, g: 0.11936544, b: 0, a: 0}
+    - Vector2_1949C164: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_9D2BD9EA: {r: 1, g: 1, b: 0, a: 0}

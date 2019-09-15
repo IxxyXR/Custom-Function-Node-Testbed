@@ -1,0 +1,6 @@
+This refractive glass material uses the nearest reflection probe to do this effect
+
+make sure to turn the normal strengh down to 0 if no normal map is applied
+
+the tutorial video on creating this is:
+https://www.youtube.com/watch?v=-7UmfKUb1Zg

@@ -1,0 +1,7 @@
+this effect is applied on the whole mesh ... there are several ways to limmit it to parts of the mesh:
+1- having a texture that defines in white the areas that have full efect and to the black less and less until no effect
+2- limmit based on the uv which works if the mesh is unwraped as one piece
+3- based on the position of the vertices
+
+I have a video tutorial on some of these methods:
+https://www.youtube.com/watch?v=2gY5b6mkCWs

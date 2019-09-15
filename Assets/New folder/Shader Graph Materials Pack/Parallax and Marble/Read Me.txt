@@ -1,0 +1,8 @@
+I have a tutorial video that goes through multyple looks for the marble shader (double reflection):
+https://www.youtube.com/watch?v=YOUxN_YeUqk
+
+you can use the reflection probe, an emmision of the texture,a combination or one color for the reflection that the normal map defines it
+
+
+for the parallax shader, it is a custom node that can be connected to the UV of any texture, this effect depends on a loop so you
+ can change that number in the script but increasing it will consume more power and will take more time to compile

@@ -1,0 +1,3 @@
+Try to keep the second edge below the first one to have a correct look
+
+note: this material might not work correctly in HDRP

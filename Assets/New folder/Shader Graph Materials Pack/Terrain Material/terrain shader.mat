@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: terrain shader
+  m_Shader: {fileID: 4800000, guid: 5a8657441b4b3ee46ba221f550539bad, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_17BFA3E0:
+        m_Texture: {fileID: 2800000, guid: 7140a9bc83a12ea49a081dda89216fff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_3E21A4D3:
+        m_Texture: {fileID: 2800000, guid: fcce267dfc966b6408dc2ebe0cfb60ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_88F0387D:
+        m_Texture: {fileID: 2800000, guid: 2949bdee86a480547bbd54cfd04e329b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A63C05EE:
+        m_Texture: {fileID: 2800000, guid: 7140a9bc83a12ea49a081dda89216fff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_14FDC95D: 0
+    - Vector1_1F884FDD: 48.28
+    - Vector1_2A7AEC89: 0.8
+    - Vector1_2D1F88ED: 0
+    - Vector1_31BCD9DE: 1
+    - Vector1_32353A6C: 0.09
+    - Vector1_37DF0CC1: 0.2
+    - Vector1_381E28D5: 20
+    - Vector1_3E284BB3: 0.31
+    - Vector1_4212268E: 0.3
+    - Vector1_459564E4: 0
+    - Vector1_59FC6D91: 0
+    - Vector1_620830EA: 0.46
+    - Vector1_97CC1BC7: 0.29
+    - Vector1_A9A65D2A: 0.5
+    - Vector1_B117CAC3: 0.71
+    - Vector1_BF686D54: 0.07
+    - Vector1_E9F9C4B0: 1
+    m_Colors:
+    - Color_5935EEE5: {r: 0, g: 0.9723274, b: 1, a: 0}
+    - Color_69811BBF: {r: 0, g: 0.9723274, b: 1, a: 0}
+    - Vector4_9EF3B2DF: {r: 10, g: 10, b: 0, a: 0}
+    - Vector4_A74165EF: {r: 13, g: 13, b: 0, a: 0}

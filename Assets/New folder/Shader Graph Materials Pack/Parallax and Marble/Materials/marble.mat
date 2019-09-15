@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: marble
+  m_Shader: {fileID: 4800000, guid: b967e79215999564f8c45260eda22963, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_41C600B8:
+        m_Texture: {fileID: 2800000, guid: d08abd1af0bdd6744be124e10c45d930, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_53B2CF3F:
+        m_Texture: {fileID: 2800000, guid: 0dfa8f2fd623d4d429d8533c9b641c6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5E3FB5DF:
+        m_Texture: {fileID: 2800000, guid: 0dfa8f2fd623d4d429d8533c9b641c6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_65BB42C6:
+        m_Texture: {fileID: 2800000, guid: 192bd2e76bf1ac7469511a05f4555790, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7209D3F0:
+        m_Texture: {fileID: 2800000, guid: 192bd2e76bf1ac7469511a05f4555790, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CA15A28E:
+        m_Texture: {fileID: 2800000, guid: 192bd2e76bf1ac7469511a05f4555790, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CE00DD95:
+        m_Texture: {fileID: 2800000, guid: 0dfa8f2fd623d4d429d8533c9b641c6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E885544C:
+        m_Texture: {fileID: 2800000, guid: d08abd1af0bdd6744be124e10c45d930, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_EC0750DC:
+        m_Texture: {fileID: 2800000, guid: d08abd1af0bdd6744be124e10c45d930, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_16E66955: 1.3
+    - Vector1_18A25ACC: -25.5
+    - Vector1_282BD4E0: 2
+    - Vector1_3C898C9F: 1
+    - Vector1_42A8C373: 0
+    - Vector1_45B68C6F: -6.63
+    - Vector1_61203B2A: 27.74
+    - Vector1_670FA404: 1.68
+    - Vector1_9636D4D7: 1
+    - Vector1_B4D6A531: 5.25
+    - Vector1_D292E768: 1
+    - Vector1_E2DB5BB3: 0.9
+    - Vector1_EA6D66ED: -27.13
+    m_Colors:
+    - Vector4_3AFE3EAA: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_935C167B: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_E374AEF9: {r: 1, g: 1, b: 0, a: 0}

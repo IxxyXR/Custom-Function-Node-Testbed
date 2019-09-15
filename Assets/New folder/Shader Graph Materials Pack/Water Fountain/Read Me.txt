@@ -1,0 +1,4 @@
+Make sure to have the mesh unwraped such that it occupy the whole texture if the texture is seamless
+
+the tutorial video on creating this is:
+https://www.youtube.com/watch?v=nhYrtvT543w

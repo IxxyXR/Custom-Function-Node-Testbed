@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andyb\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andyb\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AndyB Custom Function Node Testbed.-1731614766.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andyb\Documents\Unity Projects\AndyB Custom Function Node Testbed" t="IncludeRecursive">
+      <e p="AndyB Custom Function Node Testbed.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Glitter.hlsl" t="Include" />
+        <e p="GradientInputNode.hlsl" t="Include" />
+        <e p="New folder" t="Include">
+          <e p="Shader Graph Materials Pack" t="Include">
+            <e p="Common" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="SimpleCameraController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Fortnite Bounce Effect" t="Include">
+              <e p="ClickToBounce.cs" t="Include" />
+              <e p="Read Me.txt" t="Include" />
+            </e>
+            <e p="Parallax and Marble" t="Include">
+              <e p="Read Me.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="parallax.hlsl" t="Include" />
+              </e>
+            </e>
+            <e p="Refractive Glass" t="Include">
+              <e p="Read Me.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="refract.hlsl" t="Include" />
+              </e>
+            </e>
+            <e p="Terrain Material" t="Include">
+              <e p="Read Me.txt" t="Include" />
+            </e>
+            <e p="Toon Shading" t="Include">
+              <e p="MainLight.hlsl" t="Include" />
+              <e p="Read Me.txt" t="Include" />
+            </e>
+            <e p="Water Explosion Ball" t="Include">
+              <e p="Read Me.txt" t="Include" />
+            </e>
+            <e p="Water Fountain" t="Include">
+              <e p="Read Me.txt" t="Include" />
+            </e>
+            <e p="Wind Effect" t="Include">
+              <e p="Read Me.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SeamlessVoronoi.hlsl" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

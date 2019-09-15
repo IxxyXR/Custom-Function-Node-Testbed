@@ -1,0 +1,3 @@
+This is one material for any terrain to define a height whatever under is water and what is above is dirt (and can be multyple layers)
+
+for this material to work you have to choose none for the normals of the terrain mesh in the import settings and have a normal map of the terrain applied

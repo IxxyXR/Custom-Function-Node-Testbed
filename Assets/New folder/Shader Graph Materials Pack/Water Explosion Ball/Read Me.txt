@@ -1,0 +1,4 @@
+this effect is made by animating the parameters of the material which means that it is in play mode only
+
+the tutorial video on creating this is:
+https://www.youtube.com/watch?v=IzvKGsdByFk

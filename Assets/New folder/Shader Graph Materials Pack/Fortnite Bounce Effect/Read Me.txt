@@ -1,0 +1,6 @@
+Enter play mode and click on the wooden wall to have the effect of bounce
+
+The effect needs a collider and the clickToBounce script on any object as well as the material
+
+the tutorial video on creating this is:
+https://www.youtube.com/watch?v=oP7o-l9KG8I
