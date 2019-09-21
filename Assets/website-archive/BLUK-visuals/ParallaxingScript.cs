@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public class ParallaxingScript : MonoBehaviour {
   
     private Vector3 prevPos;

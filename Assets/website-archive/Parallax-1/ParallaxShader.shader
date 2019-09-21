@@ -8,7 +8,6 @@ Shader "Custom/ParallaxShader" {
         _Metallic ("Metallic", Range(0,1)) = 0.0
         _Parallax("Parallax", float) = 0
     }
-    
     SubShader {
         Tags { "RenderType"="Opaque" }
         LOD 200

@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public class SkyColorManager : MonoBehaviour {
   
     public Color skyColor;
