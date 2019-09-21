@@ -24,10 +24,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _DistanceBetweenFloors: 0.2
-    - _DistanceBetweenWalls: 0.2
+    - _DistanceBetweenFloors: 0.05
+    - _DistanceBetweenWalls: 0.05
     m_Colors:
-    - _ColorFloor: {r: 0.38581347, g: 0.49110994, b: 0.9622642, a: 1}
-    - _ColorRoof: {r: 1, g: 0, b: 0, a: 1}
-    - _ColorWall: {r: 0.0021502285, g: 0.9150943, b: 0, a: 1}
-    - _ColorWall2: {r: 0.7924528, g: 0.7419763, b: 0.08597367, a: 1}
+    - _ColorFloor: {r: 0.46391067, g: 0.5086602, b: 0.7075472, a: 1}
+    - _ColorRoof: {r: 0.6132076, g: 0.39627093, b: 0.39627093, a: 1}
+    - _ColorWall: {r: 0.3180083, g: 0.5377358, b: 0.31706122, a: 1}
+    - _ColorWall2: {r: 0.6415094, g: 0.6264299, b: 0.43271625, a: 1}
